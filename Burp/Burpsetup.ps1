@@ -26,7 +26,7 @@ ___<__(|) _   **-/  / /   /
      /  |,'   /  
     :   /    /
     [  /   ,'     ~>Burp Suit Tool<~ Dev - Sngwn
-    | /  ,'      ~~>Modified By XxRagulxX<~~
+    | /  ,'      ~~>Modified By XxRagulxX<~~ AKA King
     |/,-'
     '
 "
