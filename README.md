@@ -12,7 +12,6 @@ Step - 2 : Use 7-zip to Unzip the file. If you don't have [7-zip offical downloa
 
 Step - 3 : Run Burpsetup.ps1 (Powershell file) . Right click the file and Run with Powershell 
 
-![](Images/Burpsetup.png)
 
 Step - 4 : Accept the terms and conditions (A) . After that Just follow the installation for basic installation . 
 
