@@ -5,7 +5,7 @@ V2022.12.4 [latest patch notes](https://portswigger.net/burp/releases/profession
 
 How to use ? 
 
-Credits - Sngwn , surferxyz . Thanks for 
+#Credits - Sngwn for basic code , surferxyz for activator .  
 
 Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build) 
 
