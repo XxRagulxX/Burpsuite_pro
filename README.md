@@ -43,7 +43,7 @@ Step - 9 : Copy the license from the Brup suite pro loader & keygen and paste it
 
 ![](Images/License.png)
 
-Step - 10 : Click next , Select Manual Activation . Copy the request from the box and paste it in Brup suite pro loader & keygen . 
+Step - 10 : Click next , Select Manual Activation . Copy the request from the box and paste it in Activation Request (Brup suite pro loader & keygen) . 
 
 ![](Images/Request.png)
 
