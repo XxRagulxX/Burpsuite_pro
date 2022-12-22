@@ -5,15 +5,15 @@ V2022.12.4 [latest patch notes](https://portswigger.net/burp/releases/profession
 
 
 
-# Credits - Sngwn for basic code , surferxyz for activator .  
+Credits - Sngwn for basic code , surferxyz for activator .  
 
-# How to use ? 
+How to use ? 
 
-# Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build) 
+Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build) 
 
-# Step - 2 : Use 7-zip to Unzip the file. If you don't have [7-zip offical download](https://www.7-zip.org/download.html) 
+Step - 2 : Use 7-zip to Unzip the file. If you don't have [7-zip offical download](https://www.7-zip.org/download.html) 
 
-# Step - 3 : Run Burpsetup.ps1 (Powershell file) . Right click the file and Run with Powershell 
+Step - 3 : Run Burpsetup.ps1 (Powershell file) . Right click the file and Run with Powershell 
 
 ![](Images/Burpsetup.png)
 
