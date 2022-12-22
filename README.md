@@ -3,7 +3,7 @@
 V2022.12.4 [latest patch notes](https://portswigger.net/burp/releases/professional-community-2022-12-4)
 
 
-<p><img align = "right" alt = "gif" src="https://github.com/XxRagulxX/Burpsuite_pro/blob/main/Images/hack.gif" width= "250" height= "250" /></p>
+<p><img align = "right" alt = "gif" src="https://github.com/XxRagulxX/Burpsuite_pro/blob/main/Images/hack.gif" width= "200" height= "200" /></p>
 
 Credits - Sngwn surferxyz for activator .  
 
