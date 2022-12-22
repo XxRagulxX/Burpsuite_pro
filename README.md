@@ -5,6 +5,8 @@ V2022.12.4 [latest patch notes](https://portswigger.net/burp/releases/profession
 
 How to use ? 
 
+Credits - Sngwn , surferxyz . Thanks for 
+
 Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build) 
 
 Step - 2 : Use 7-zip to Unzip the file. If you don't have [7-zip offical download](https://www.7-zip.org/download.html) 
@@ -29,7 +31,35 @@ Step - 6 : Burp will be automatically downloaded . Just be patient until the dow
 
 Step - 7 : Once the download is complete, It will automatically get opened . (Note: If burp not opening automatically then kindly close all the applications and run the Powershell script again and it should fix the issue)
 
-![](Images/Burpsetup.png)
+![](Images/burpstartup.png)
+
+Step - 8 : Accept the EULA and precede further . 
+
+![](Images/EULA.png)
+
+Step - 9 : Copy the license from the Brup suite pro loader & keygen and paste it in "Enter License key" 
+
+![](Images/License.png)
+
+Step - 10 : Click next , Select Manual Activation . Copy the request from the box and paste it in Brup suite pro loader & keygen . 
+
+![](Images/Request.png)
+
+Step - 11 : Copy the Activation Response and paste it back in burp activation.
+
+![](Images/Responseget.png)
+
+![](Images/ResponseActivate.png)
+
+Step - 12 : Click Next , Click finish . 
+
+![](Images/Burppro.png)
+
+Step - 13 : After everything is completed, close the burp suite and open the visualbasic script (It will directly open burpsuite)
+
+![](Images/VBscript.png)
+
+
 
 
 
