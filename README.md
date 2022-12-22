@@ -1,6 +1,6 @@
 # Burp Suite Professional Edition 
 
-V2022.12.4
+V2022.12.4 (latest)
 
 
 How to use ? 
