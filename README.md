@@ -5,7 +5,7 @@ V2022.12.4 [latest patch notes](https://portswigger.net/burp/releases/profession
 
 
 
-Credits - Sngwn for basic code , surferxyz for activator .  
+Credits - Sngwn surferxyz for activator .  
 
 How to use ? 
 
