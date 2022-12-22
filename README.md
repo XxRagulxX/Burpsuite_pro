@@ -1,4 +1,4 @@
-# Burp Suite Professional Edition 
+## Burp Suite Professional Edition 
 
 V2022.12.4 [latest patch notes](https://portswigger.net/burp/releases/professional-community-2022-12-4)
 
@@ -16,6 +16,26 @@ Step - 3 : Run Burpsetup.ps1 (Powershell file) . Right click the file and Run wi
 Step - 4 : Accept the terms and conditions (A) . After that Just follow the installation for basic installation . 
 
 ![](Images/TandC.png)
+
+Step - 5 : It will check for java, and install it . 
+
+![](Images/Java19.png)
+
+![](Images/java.png)
+
+Step - 6 : Burp will be automatically downloaded . Just be patient until the download is complete . 
+
+![](Images/powershell.png)
+
+Step - 7 : Once the download is complete, It will automatically get opened . (Note: If burp not opening automatically then kindly close all the applications and run the Powershell script again and it should fix the issue)
+
+![](Images/Burpsetup.png)
+
+
+
+
+
+
 
 
 
