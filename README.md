@@ -1,4 +1,4 @@
-# Burp Suite Professional Edition  ![](Images/Burplogo.png)
+# Burp Suite Professional Edition  ![]()
 
 V2022.12.4 [latest patch notes](https://portswigger.net/burp/releases/professional-community-2022-12-4)
 
