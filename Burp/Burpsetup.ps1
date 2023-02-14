@@ -64,13 +64,13 @@ if (!($jre8)){
 if (Test-Path burpsuite_pro_v2022.jar){
     echo "Burp Suite Professional JAR file is available.`nChecking its Integrity ...."
     if (((Get-Item burpsuite_pro_v2022.jar).length/1MB) -lt 500 ){
-        echo "`n`t`tFiles Seems to be corrupted `n`t`tDownloading Burp Suite Professional v2022.12.4 ...."
-        wget "https://portswigger.net/burp/releases/startdownload?product=pro&version=2022.12.4&type=Jar" -O "burpsuite_pro_v2022.jar"
+        echo "`n`t`tFiles Seems to be corrupted `n`t`tDownloading Burp Suite Professional v2022.12.6 ...."
+        wget "https://portswigger.net/burp/releases/startdownload?product=pro&version=2022.12.6&type=Jar" -O "burpsuite_pro_v2022.jar"
         echo "`nBurp Suite Professional is Downloaded.`n"
     }else {echo "File Looks fine. Lets proceed for Execution"}
 }else {
-    echo "`n`t`tDownloading Burp Suite Professional v2022.12.4 ...."
-    wget "https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.12.4&type=jar" -O "burpsuite_pro_v2022.jar"
+    echo "`n`t`tDownloading Burp Suite Professional v2022.12.6 ...."
+    wget "https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.12.6&type=jar" -O "burpsuite_pro_v2022.jar"
     echo "`nBurp Suite Professional is Downloaded.`n"
 }
 
