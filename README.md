@@ -13,8 +13,8 @@ Error : Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 Set-ExecutionPolicy Unrestricted
 
-$script = Invoke-WebRequest https://raw.githubusercontent.com/XxRagulxX/Burpsuite_pro/main/script.ps1
-$Invoke-Expression $($script.Content)
+`$script = Invoke-WebRequest https://raw.githubusercontent.com/XxRagulxX/Burpsuite_pro/main/script.ps1`
+`$Invoke-Expression $($script.Content)`
 
 Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build) 
 
