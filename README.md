@@ -1,6 +1,7 @@
 # Burp Suite Professional Edition <img src="Images/burpsuitelogo.png" width="50" height="50">
 
 V2022.6.1 [latest patch notes](https://portswigger.net/burp/releases/professional-community-2023-6-1)
+Currently My version of the Burpsuite can be installed on Windows & Linux.. Soon on MacOS
 
 
 <p><img align = "right" alt = "gif" src="https://github.com/XxRagulxX/Burpsuite_pro/blob/main/Images/hack.gif" width= "200" height= "200" /></p>
