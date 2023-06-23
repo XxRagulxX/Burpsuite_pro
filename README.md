@@ -16,7 +16,7 @@ Set-ExecutionPolicy Unrestricted
 `$script = Invoke-WebRequest https://raw.githubusercontent.com/XxRagulxX/Burpsuite_pro/main/script.ps1`
 `Invoke-Expression $($script.Content)`
 
-Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build) 
+Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build_2) 
 
 Step - 2 : Use 7-zip to Unzip the file. If you don't have [7-zip offical download](https://www.7-zip.org/download.html) 
 
