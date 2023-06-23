@@ -11,7 +11,8 @@ Credits - Zer0dayLab for Crack.
 
 To use Powershell script : 
 
-Error : `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass Set-ExecutionPolicy Unrestricted`
+Add the line before installation.
+Powershell Command: `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass Set-ExecutionPolicy Unrestricted`
 
 Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build_2) 
 
