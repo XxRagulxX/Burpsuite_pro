@@ -16,7 +16,7 @@ To use Powershell script :
 
 Powershell Command: 
 
-```Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass Set-ExecutionPolicy Unrestricted```
+`Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass Set-ExecutionPolicy Unrestricted`
 
 Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build_2) 
 
