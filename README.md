@@ -5,7 +5,7 @@ V2022.12.4 [latest patch notes](https://portswigger.net/burp/releases/profession
 
 <p><img align = "right" alt = "gif" src="https://github.com/XxRagulxX/Burpsuite_pro/blob/main/Images/hack.gif" width= "200" height= "200" /></p>
 
-Credits - Sngwn surferxyz for activator .  
+Credits - Zer0dayLab for Crack.  
 
 How to use ? 
 
