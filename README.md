@@ -9,14 +9,9 @@ Currently My version of the Burpsuite can be installed on **Windows** & **Linux*
 
 Credits - Zer0dayLab for Crack.  
 
-How to use ? 
+To use Powershell script : 
 
-Error : Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-
-Set-ExecutionPolicy Unrestricted
-
-`$script = Invoke-WebRequest https://raw.githubusercontent.com/XxRagulxX/Burpsuite_pro/main/script.ps1`
-`Invoke-Expression $($script.Content)`
+Error : ```Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass Set-ExecutionPolicy Unrestricted```
 
 Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build_2) 
 
