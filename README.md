@@ -11,7 +11,7 @@ Credits - Zer0dayLab for Crack.
 
 To use Powershell script : 
 
-**Note**
+**Note** : 
 1.Open Powershell as Administrator and run this line 
 
 Powershell Command: 
