@@ -1,7 +1,7 @@
 # Get the directory where the script is located.
 $scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
 
-# Intro.
+# Logo Intro
 $animation_frames = @(
     "                               ( O_)",
     "                              / `-/",
