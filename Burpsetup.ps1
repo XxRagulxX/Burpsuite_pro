@@ -1,4 +1,4 @@
-# Get the directory where the script is located.
+# Get the directory where the script is located. # verify
 $scriptDirectory = Split-Path -Parent $MyInvocation.MyCommand.Path
 
 # Logo Intro
