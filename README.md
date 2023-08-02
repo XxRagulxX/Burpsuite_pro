@@ -18,6 +18,8 @@ Open Powershell as Administrator and run this line
 Powershell Command: 
 
 `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass Set-ExecutionPolicy Unrestricted`
+OR
+`Set-ExecutionPolicy Unrestricted`
 
 Step - 1 : Download the file from [here](https://github.com/XxRagulxX/Burpsuite_pro/releases/tag/Build_2) 
 
