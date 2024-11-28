@@ -8,7 +8,7 @@ This project is made for **Education purpose** only
 
 <p><img align = "right" alt = "gif" src="https://github.com/XxRagulxX/Burpsuite_pro/blob/main/Images/hack.gif" width= "200" height= "200" /></p>
 
-Credits - Zer0dayLab for Crack.  
+Credits - Pwn3rzs for Crack.  
 
 To use Powershell script : 
 
