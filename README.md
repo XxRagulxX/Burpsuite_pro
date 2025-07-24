@@ -2,6 +2,8 @@
 
 V2022.6.1 [latest patch notes](https://portswigger.net/burp/releases/professional-community-2023-6-1)
 
+**No Longer Working on this.**
+
 Currently My version of the Burpsuite can be installed on **Windows** & **Linux**.. Soon on  **MacOS**
 
 This project is made for **Education purpose** only 
